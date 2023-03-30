@@ -933,8 +933,8 @@ zh-CN:
     confirmation_dialogs: 确认对话框
     discovery: 发现
     localization:
-      body: Mastodon 由志愿者翻译。
-      guide_link: https://crowdin.com/project/mastodon
+      body: 闭社中南拥有多语言
+      guide_link: 
       guide_link_text: 每个人都可以参与翻译。
     sensitive_content: 敏感内容
     toot_layout: 嘟文布局
@@ -987,7 +987,7 @@ zh-CN:
     rules:
       accept: 接受
       back: 返回
-      preamble: 这些由 %{domain} 监察员设置和执行。
+      preamble: 这些由 闭社中南 管理员设置和执行。
       title: 一些基本规则。
     security: 账户安全
     set_new_password: 设置新密码
@@ -996,11 +996,11 @@ zh-CN:
       email_settings_hint_html: 确认邮件已经发送到%{email}。如果该邮箱地址不对，你可以在账号设置里面修改。
       title: 初始设置
     sign_in:
-      preamble_html: 使用您在 <strong>%{domain}</strong> 的账户和密码登录。如果您的账户托管在其他的服务器上，您将无法在此登录。
-      title: 登录到 %{domain}
+      preamble_html: 使用您在 <strong>闭社中南</strong> 的账户和密码登录。如果您的账户托管在其他的服务器上，您将无法在此登录。
+      title: 登录到 闭社中南
     sign_up:
-      preamble: 有了这个Mastodon服务器上的账户，您就可以关注Mastodon网络上的任何其他人，无论他们的账户在哪里。
-      title: 让我们在 %{domain} 上开始。
+      preamble: 有了这个服务器上的账户，您就  可以关注闭社网络上的任何其他人，无论他们的账户在哪里。
+      title: 让我们在 闭社中南 上开始。
     status:
       account_status: 账户状态
       confirming: 等待电子邮件确认完成。
@@ -1459,7 +1459,7 @@ zh-CN:
     aliases: 账号别名
     appearance: 外观
     authorized_apps: 已授权的应用
-    back: 返回 Mastodon
+    back: 返回 闭社中南
     delete: 删除账户
     development: 开发
     edit_profile: 更改个人资料
